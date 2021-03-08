@@ -1,5 +1,5 @@
 #################################################################################################
-# Project: Take home test
+# Project: Prediction of house prices
 # Version: 1.0
 # Date: 1/31/2021
 # Description: Flask based API server to serve ML model
